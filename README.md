@@ -1,12 +1,12 @@
-# 401 LAB - 03
+# 401 Code Challenge - 02
 
-## Project: Basic Express Server
+## Project: Array Binary Search
 
 ### Collaborators: Clement Buchanan & Kale Lesko
 
 ### Links and Resources
 
-- [Binary Search in JS](https://youtu.be/92e5Ih4Chbk) (YouTube Video)
+- [Array Binary Search in JS](https://youtu.be/92e5Ih4Chbk) (YouTube Video)
 
 ### Setup and Structure
 
@@ -34,13 +34,15 @@
 
 #### `.env` requirements
 
-- `PORT` - 3333
+- N/A
 
 #### How to initialize/run your application (where applicable)
 
 - `npm index.js`
 
 #### How to use your library (where applicable)
+
+- N/A
 
 #### Tests
 
