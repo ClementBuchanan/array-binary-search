@@ -2,13 +2,11 @@
 
 ## Project: Basic Express Server
 
-### Collaborators: Clement Buchanan & Kale
+### Collaborators: Clement Buchanan & Kale Lesko
 
 ### Links and Resources
 
-- [ci/cd](https://github.com/ClementBuchanan/basic-express-server/actions) (GitHub Actions)
-
-- [front-end application](https://basic-express-svr.herokuapp.com/) (Heroku Deployment)
+- [Binary Search in JS](https://youtu.be/92e5Ih4Chbk) (YouTube Video)
 
 ### Setup and Structure
 
@@ -46,12 +44,7 @@
 
 #### Tests
 
-- How do you run tests? - run `npm test` from the terminal
-- All tests ran and passed successfully
-  - `404 on a bad method`
-  - `500 if no name in the string query`
-  - `200 if the name is in query string`
-  - `given a name in the query string`
+
 
 #### UML
 
