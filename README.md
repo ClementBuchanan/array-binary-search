@@ -10,27 +10,7 @@
 
 ### Setup and Structure
 
-├── .gitignore
-├── .env
-|---assets
-|---coverage
-|---node-modules
-├── __tests__
-│   ├── server.test.js
-│   ├── validator.test.js
-│   ├── logger.test.js
-├── src
-│   ├── error-handlers
-│   │   ├── 404.js
-│   │   ├── 500.js
-│   ├── middleware
-│   │   ├── logger.js
-│   │   ├── validator.js
-│   ├── server.js
-├── index.js
-|---License
-|--- Package-lock.json
-└── package.json
+- N/A
 
 #### `.env` requirements
 
@@ -38,7 +18,7 @@
 
 #### How to initialize/run your application (where applicable)
 
-- `npm index.js`
+- N/A
 
 #### How to use your library (where applicable)
 
@@ -46,11 +26,11 @@
 
 #### Tests
 
+-N/A
 
+#### Whiteboard
 
-#### UML
-
-![UML Example](./assets/uml.jpg)
+![Array Binary Search Whiteboard](./assets/uml.jpg)
 
 ### Pull Requests
 
